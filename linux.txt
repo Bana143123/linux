@@ -1,0 +1,45 @@
+Linux
+created by Linus Torvalds in 1991
+Many Linux Distributions was there
+1. Ubuntu
+2. Debian
+3. Kali Linux
+4. Red hat
+
+Linux Full Form - Lovable intellect not using xp
+
+Most popular linux distribution was -Ubuntu
+there are 3 editions in Ubuntu 
+1.desktop
+2.server
+3.core
+
+cd - change directory
+pwd- current working directory
+ls - list of directories
+ls -l - lists long format
+ls -a - lists all files
+ls -lah 
+mkdir - create a directory
+Creating parent directory 
+mkdir -p Reddy/kumar/Narendra
+rmdir - removing empty directory
+removing parent directory
+rmdir -p Reddy/kumar/Narendra
+file file_name - will get about file
+creating a file
+touch file_name
+remove files or directories using rm
+1)rm file1.txt
+2)rm -i file1.txt file2.txt
+3)removing directory using rm -rf directory_name
+copy-cp
+1)cp source destination
+  a) cp file1.txt file1cp.txt  - same folder
+  b) cp file1.txt "/home/reddy/Documents/  - different filder if u want to copy
+  
+move -mv - moving and renaming a filee
+1) mv file1.txt file2.txt
+   mv file1.txt /home/Documents/file3.txt  - moving a file to some other folder and renaming
+
+  
